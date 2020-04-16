@@ -1,4 +1,4 @@
-import { ActionCreator } from 'redux';
+//import { ActionCreator } from 'redux';
 
 export enum ProductActionTypes {
     GET_ALL = 'GET_ALL', // this is treated as a const and should never change.
